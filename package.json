@@ -1,0 +1,15 @@
+{
+  "name": "backbone-containingview",
+  "version": "0.1.0",
+  "description": "Backbone view with element boundary detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David O'Trakoun <me@davidosomething.com> (http://davidosomething.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.13.0"
+  }
+}
